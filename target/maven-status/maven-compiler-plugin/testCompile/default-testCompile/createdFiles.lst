@@ -1,0 +1,7 @@
+com\nopcommerce\testcases\RegisterTestCase.class
+com\nopcommerce\utils\ReadExcel.class
+com\nopcommerce\utils\TestUtil.class
+com\ExtentReportListener\ExtentReportListener.class
+com\nopcommerce\utils\TestBase.class
+com\nopcommerce\pages\RegisterConfirmation.class
+com\nopcommerce\pages\RegisterPage.class

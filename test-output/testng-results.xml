@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33872" started-at="2020-12-09T03:56:48 IST" finished-at="2020-12-09T03:57:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33872" started-at="2020-12-09T03:56:48 IST" finished-at="2020-12-09T03:57:22 IST">
+      <class name="com.nopcommerce.testcases.RegisterTestCase">
+        <test-method status="PASS" signature="setData()[pri:0, instance:com.nopcommerce.testcases.RegisterTestCase@1b68ddbd]" name="setData" is-config="true" duration-ms="16" started-at="2020-12-09T03:56:48 IST" finished-at="2020-12-09T03:56:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="RegisterUserCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.testcases.RegisterTestCase@1b68ddbd]" name="RegisterUserCase" duration-ms="32814" started-at="2020-12-09T03:56:49 IST" data-provider="fetchData" finished-at="2020-12-09T03:57:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testfgdsregrt123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[testfgdsregrt123@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sddvfdgfd123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Belgium]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[W. Europe Standard Time]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Password-1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Password-1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Other]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[As an example for personal training]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Technical developer]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterUserCase -->
+      </class> <!-- com.nopcommerce.testcases.RegisterTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
